@@ -1,0 +1,13 @@
+Month,Units_Consumed,Temperature,Household_Size
+Jan,210,20,3
+Feb,190,22,3
+Mar,250,28,3
+Apr,300,32,4
+May,350,36,4
+Jun,400,38,5
+Jul,420,37,5
+Aug,410,36,5
+Sep,360,34,4
+Oct,300,30,4
+Nov,260,25,3
+Dec,220,22,3
